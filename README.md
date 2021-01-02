@@ -30,7 +30,7 @@ XMODIFIERS="@im=fcitx"
 * change the terminal to alacritty by setting mod+Return to alacritty
 * change the shell to fish by `chsh -s (which fish)` then reboot
 * move to fish config
-* install oh-my-fish `curl -L https://get.oh-my.sh | fish`
+* install oh-my-fish `curl -L https://get.oh-my.fish | fish`
 * install omf theme `omf install tomita`
 * config fish to be in vi mode by adding these two line into ~/.config/fish/config.fish
 ```
